@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MAJU Event Management System",
+  "description": "A comprehensive event management system for Mohammad Ali Jinnah University, facilitating event discovery, room bookings, scheduling, resource allocations, feedbacks, and automatic certificate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
